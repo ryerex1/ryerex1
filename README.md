@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ryerex1
-- 👀 I’m interested in disruptive innovation, and right now crypto has caught my fancy.
-- 🌱 I really enjoy coding in VBA. I’m also currently learning more about blockchain.
-- 💞️ I’m looking to collaborate on any beginner projects.
-- 📫 How to reach me: reillyxu@gmail.com
+- 👀 I love building stuff.
+- 🌱 My most recent project has been in React. I also really enjoy coding in Excel VBA.
+- 💞️ I’d love to collaborate on any cool projects or little game ideas.
+- 📫 How to reach me: reillyxu [at] gmail [dot] com
 
 <!---
 ryerex1/ryerex1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
